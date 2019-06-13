@@ -13,7 +13,8 @@ Platform name and version: [Windows 10]
 
 
 test commands : 
-npm install
+npm install 
+
 npm test
 
 After test check for geckodriver processes in the windows background processes
